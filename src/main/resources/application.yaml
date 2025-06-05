@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: aon-insurance
+
+log4j:
+  rootLogger: INFO, ERROR, consoleAppender
+
+incdec:
+  number: ${NUM}
