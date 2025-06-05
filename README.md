@@ -1,2 +1,2 @@
 # aon
-Answer to pre-interview questionnaire in aon
+This is a coding exercise for AON Java application.
